@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
     "node": "^22.11.0"
-  }
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "uh23v7x220_nguyenphonghai_backend_2",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiboss/UH23V7X220_NGUYENPHONGHAI_BACKEND_2.git"
+  },
+  "author": "Nguyễn Phong Hải",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haiboss/UH23V7X220_NGUYENPHONGHAI_BACKEND_2/issues"
+  },
+  "homepage": "https://github.com/haiboss/UH23V7X220_NGUYENPHONGHAI_BACKEND_2#readme",
+  "description": ""
 }
